@@ -1,4 +1,4 @@
-# Uno Game
+# UNO Game
 
 ## Overview
 This is a simple web-based implementation of the classic card game Uno. The game allows a player to compete against a bot, following the standard rules of Uno, including special cards like "Draw Two," "Wild," and "Wild Draw Four."
